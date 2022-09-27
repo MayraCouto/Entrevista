@@ -1,0 +1,21 @@
+div {
+  text-align: center;
+}
+button {
+  height: 2.5em;
+  width: 5.5em;
+  border: none;
+  color: rgb(255, 255, 255);
+}
+
+.buttonStart {
+  background-color: rgb(1, 99, 1);
+}
+
+.buttonPause {
+  background-color: rgb(78, 78, 78);
+}
+
+.buttonCancel {
+  background-color: rgb(143, 3, 3);
+}
