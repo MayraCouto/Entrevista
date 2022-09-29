@@ -1,0 +1,28 @@
+.container {
+  text-align: center;
+}
+
+button {
+  background: #181e72;
+  color: #fffffff1;
+  font-size: 15px;
+  padding: 8px;
+  cursor: pointer;
+  border: 0;
+}
+
+select {
+  width: 40px;
+  height: 30px;
+  font-size: 18px;
+  color: #fffffff1;
+  background-color: #181e72;
+  display: inline-block;
+}
+
+h2 {
+  display: inline-block;
+  margin: 65px 0px 0px 40px;
+  font-family: fantasy;
+  font-weight: 500;
+}
